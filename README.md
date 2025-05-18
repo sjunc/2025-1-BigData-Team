@@ -64,7 +64,7 @@
 ### 분석 진행 절차 
 1. **데이터 수집**  
    - 공공데이터 포털:
-   - [경찰청_범죄 발생 지역별 통계](https://www.data.go.kr/data/3074463/fileData.do#/layer_data_infomation)
+   - [경찰청_범죄 발생 지역별 통계][(https://www.data.go.kr/data/3074462/fileData.do#layer_data_infomation)
    - [경찰청_범죄 발생 장소별 통계](https://www.data.go.kr/data/3074463/fileData.do#/layer_data_infomation)
      
      
